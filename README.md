@@ -1,6 +1,6 @@
 # Delta user  Management System
 
->[Live Demo]: (Add your deployed link here)
+>[Live Demo]: https://delata.netlify.app/
 >[Repository]: https://github.com/ThiruCastro/Delta
 
  ## Overview
